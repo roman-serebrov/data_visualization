@@ -1,0 +1,14 @@
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    visibility: hidden;
+}
+
+.active {
+    visibility: visible;
+}
+h2 {
+    margin: 0;
+    padding: 0;
+}
